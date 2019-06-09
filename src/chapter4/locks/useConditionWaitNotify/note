@@ -1,0 +1,8 @@
+等待通知在Object上和Condition上的区别
+
+Object               |   Condition
+---------------------|------------------------------------	
+wait()			     |	 await()
+wait(long timeout)	 | 	 await(long timeout, TimeUnit unit)
+notify()			 |	 signal()
+notifyAll()			 |   signalAll()
