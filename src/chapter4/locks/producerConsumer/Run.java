@@ -6,11 +6,13 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 
- * <p>Title: Run.java</p>
- * <p>Description: 
- * 使用Lock、Condition对象实现生产者消费者模型
- * 单个生产者和单个消费者
  * <p>
+ * Title: Run.java
+ * </p>
+ * <p>
+ * Description: 使用Lock、Condition对象实现生产者消费者模型 单个生产者和单个消费者
+ * <p>
+ * 
  * @author tianqb
  * @mail tqb820965236@163.com
  * @date 2019年6月12日下午5:39:42
