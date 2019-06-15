@@ -42,7 +42,7 @@ public class PrintABCUsingWaitNotify {
 
 	public void print(String name, int targetState, Object curr, Object next) {
 		synchronized (curr) {
-			while (state % 3 != targetState) {// 这里也可以使用if
+			while (state % 3 != targetState) {
 				try {
 					curr.wait();
 				} catch (InterruptedException e) {
