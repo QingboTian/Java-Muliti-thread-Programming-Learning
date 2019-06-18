@@ -6,39 +6,22 @@ Java多线程编程学习
 目录结构：
 
 D:.
-
 ├─.settings
-
 ├─bin
-
 │  ├─chapter2 synchronized的学习
-
 │  │  ├─test
-
 │  │  ├─test1
-
 │  │  ├─test10
-
 │  │  ├─test11
-
 │  │  │  ├─test1
-
 │  │  │  ├─test2
-
 │  │  │  ├─test3
-
 │  │  │  ├─test4
-
 │  │  │  └─test5
-
 │  │  ├─test12
-
 │  │  │  ├─test1
-
 │  │  │  ├─test2
-
 │  │  │  └─test3
-
 │  │  ├─test13
 │  │  ├─test2
 │  │  ├─test3
