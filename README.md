@@ -8,7 +8,7 @@ Java多线程编程学习
 	D:.
 	├─.settings
 	├─bin
-	│  ├─chapter2 synchronized的学习
+	│  ├─chapter2
 	│  │  ├─test
 	│  │  ├─test1
 	│  │  ├─test10
@@ -36,7 +36,7 @@ Java多线程编程学习
 	│  │      ├─test2
 	│  │      ├─test3
 	│  │      └─test4
-	│  ├─chapter3 线程间通信
+	│  ├─chapter3
 	│  │  ├─join_sleep_1
 	│  │  ├─join_sleep_2
 	│  │  ├─pipe
@@ -48,7 +48,7 @@ Java多线程编程学习
 	│  │      ├─inheritableThreadLocal2
 	│  │      ├─test1
 	│  │      └─test2
-	│  ├─chapter4 Lock的使用
+	│  ├─chapter4
 	│  │  └─locks
 	│  │      ├─fairLockandUnfairLock
 	│  │      ├─lockMethodTest
@@ -70,13 +70,17 @@ Java多线程编程学习
 	│  │      │  └─writewrite
 	│  │      ├─useConditionWaitNotify
 	│  │      └─useMoreCondition
-	│  ├─chapter6 单例模式与多线程
+	│  ├─chapter6
 	│  │  └─singleton
 	│  │      ├─dcl
 	│  │      ├─enu_m
 	│  │      ├─hunger
 	│  │      ├─innerClass
 	│  │      └─stati_c
+	│  ├─chapter7
+	│  │  ├─simpleDateFormat
+	│  │  │  └─errorUsing
+	│  │  └─threadState
 	│  ├─test
 	│  │  └─printThread
 	│  │      ├─test2
@@ -154,6 +158,10 @@ Java多线程编程学习
 	    │      ├─hunger
 	    │      ├─innerClass
 	    │      └─stati_c
+	    ├─chapter7
+	    │  ├─simpleDateFormat
+	    │  │  └─errorUsing
+	    │  └─threadState
 	    ├─test
 	    │  └─printThread
 	    │      ├─test2
